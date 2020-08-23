@@ -8,6 +8,5 @@ Os desafios bônus propostos foram:
   - Selecionar diferentes dificuldades, com diferentes números de tentativas em cada nível ✔
   - Não é possível inserir outra coisa a não ser números nas tentativas ✔
   - Poder jogar ou não novamente -> se selecionar sim, recomeçar o jogo. Caso não, terminar o jogo ✔
-  - Gerar um npm package e postar ✔ (https://www.npmjs.com/package/guessing-number-game)
   - Estruturar o jogo em classes 
   
